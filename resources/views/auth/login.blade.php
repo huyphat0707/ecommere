@@ -74,7 +74,7 @@
         </div>
 
       </div>
-<!-- Visit 'codeastro' for more projects -->
+<!-- Visit 'shop' for more projects -->
     </div>
 
   </div>

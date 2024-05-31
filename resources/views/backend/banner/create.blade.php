@@ -57,7 +57,7 @@
         </div>
       </form>
     </div>
-</div><!-- Visit 'codeastro' for more projects -->
+</div><!-- Visit 'shop' for more projects -->
 
 @endsection
 
